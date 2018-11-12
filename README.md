@@ -6,4 +6,4 @@ Git was created by Linus Torvalds in 2005 for development of the Linux kernel, w
 
 As with most other distributed version-control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.[13]
 
-Git is free and open-source software distributed under the terms of the GNU General Public License version 2.
+Git is free and open-source software distributed under the terms of the GNU General Public License version 2222222.
